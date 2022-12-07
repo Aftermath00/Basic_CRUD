@@ -15,3 +15,8 @@
 - HTML
 - MySQL
 - JAVASCRIPT (Lil bit)
+
+### Personal Information
+-  Name / Student ID : Rizky Azmi Swandy / 211401051
+-  Laboratory        : Web Programming Laboratory 5
+-  Lab Assistant     : John Tri Sembiring
